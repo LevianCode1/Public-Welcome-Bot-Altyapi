@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["sahip"],
+        "ACTIVITY_TEXT": "Levian Code .gg/7xzQdYNGNB",
+        "GUILD_ID": "911086907876851733",
+        "VOICE_CHANNEL": "912284902056136714",
+        "MIN_STAFF_ROLE": "911087131554877491"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome-voice.mp3",
+        "STAFF": "default_files/staff-voice.mp3"
+    },
+    "TOKEN": "OTA2MjY4MjUxNzUzOTQ3MTQ2.YYWKFA.RGWaP7jMESASq1ekzL5DA6lK2Ho"
+}
