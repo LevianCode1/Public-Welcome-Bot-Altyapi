@@ -1,14 +1,14 @@
 {
     "DEFAULTS": {
-        "AUTHORS": ["sahip"],
-        "ACTIVITY_TEXT": "Levian Code .gg/7xzQdYNGNB",
-        "GUILD_ID": "911086907876851733",
-        "VOICE_CHANNEL": "912284902056136714",
-        "MIN_STAFF_ROLE": "911087131554877491"
+        "AUTHORS": ["516332256755712009"],
+        "ACTIVITY_TEXT": "❤️",
+        "GUILD_ID": "940377151725772905",
+        "VOICE_CHANNEL": "940377151973261353",
+        "MIN_STAFF_ROLE": "940377151738363947"
     },
     "FILES": {
         "WELCOME": "default_files/welcome-voice.mp3",
         "STAFF": "default_files/staff-voice.mp3"
     },
-    "TOKEN": "OTA2MjY4MjUxNzUzOTQ3MTQ2.YYWKFA.RGWaP7jMESASq1ekzL5DA6lK2Ho"
+    "TOKEN": "OTQwMzc5ODMwNzc0NTM4Mjkx.YgGi9w.07DyDAZxaBskCN1t8UOKx93I0Nw"
 }
